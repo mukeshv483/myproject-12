@@ -33,8 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
+    	
        int i,j,k;
 for(i=1; i<=5; i++)
 {
