@@ -21,6 +21,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.atlassian.maven.plugins/maven-clover2-plugin -->
+<dependency>
+    <groupId>com.atlassian.maven.plugins</groupId>
+    <artifactId>maven-clover2-plugin</artifactId>
+    <version>4.0.6</version>
+</dependency>
+
   </dependencies>
   <build>
   	<pluginManagement>
