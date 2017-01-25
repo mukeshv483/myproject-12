@@ -4,7 +4,7 @@
 
   <groupId>myproject</groupId>
   <artifactId>myproject-12</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>myproject-12</name>
